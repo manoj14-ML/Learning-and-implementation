@@ -1,0 +1,5 @@
+c:\users\n.sangavi\documents\visual studio 2010\Projects\Test_webapplication\Test_webapplication\bin\Test_webapplication.dll
+c:\users\n.sangavi\documents\visual studio 2010\Projects\Test_webapplication\Test_webapplication\bin\Test_webapplication.pdb
+c:\users\n.sangavi\documents\visual studio 2010\Projects\Test_webapplication\Test_webapplication\obj\Debug\Test_webapplication.dll
+c:\users\n.sangavi\documents\visual studio 2010\Projects\Test_webapplication\Test_webapplication\obj\Debug\Test_webapplication.pdb
+C:\Users\N.SANGAVI\documents\visual studio 2010\Projects\Test_webapplication\Test_webapplication\obj\Debug\Test_webapplication.csprojResolveAssemblyReference.cache
